@@ -1,0 +1,106 @@
+
+body {
+background-color: rgb(18, 20, 19);
+color: rgb(94, 12, 94);
+}
+
+h2{
+    color: rgb(94, 12, 94);
+    text-align: center;
+}
+
+.dota {
+    color: rgb(42, 0, 11);
+    
+}
+
+h1 {
+    text-align: center;
+    color: rgb(134, 85, 139);
+}
+
+#dota {
+    background-image: url(https://media.giphy.com/media/r1FGEa1vgsYNkKFb79/giphy.gif);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    text-align: center center;
+}
+
+#dota_about {
+    color: rgb(0, 0, 0);
+}
+
+#theend {
+    background-image: url(https://media.giphy.com/media/ehCoApinWjAGv3ZXI3/giphy.gif);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+}
+
+#end {
+    text-align: center;
+    margin-top: 0px;
+}
+
+.logo {
+    display: flex;
+    width: 60px;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+}
+
+.imagePos {
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+}
+
+figure {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 30px;
+    margin-inline-end: 30px;
+}
+
+.img_dota {
+    width: 450px;
+    height: 250px;
+}
+
+.img_hobby {
+    width: 350px;
+    height: 250px;
+}
+
+.description {
+    text-align: justify; 
+    margin-top: 100px; 
+    font-size: xx-large; 
+    font-weight: bolder;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+
+.skills {
+    text-align: left; 
+    margin-left: 150px; 
+    margin-top: 75px;
+}
+
+li {
+    margin-top: 3px;
+}
+
+.ed_and_emp {
+    display: flex;
+    justify-content: center;
+    margin-top: 75px;
+    gap: 30px;
+    font-size: large;
+}
