@@ -104,3 +104,7 @@ li {
     gap: 30px;
     font-size: large;
 }
+
+.under {
+    text-decoration: none;
+}
